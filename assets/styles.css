@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-image: url("./images/bg-main.jpg");
+    opacity: .7;
+}
+.container{    
+    height: 100vh;
+    margin:0%;
+}
